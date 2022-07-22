@@ -5,4 +5,4 @@
 * He can add, delete, update a product
 * He can find the product in the list shown to the user
 * Product is be filtered based on product name, company and category
-*Go to:   https://mahesh7066.github.io/e-comm_dashboard/
+* Go to:   https://mahesh7066.github.io/e-comm_dashboard/
