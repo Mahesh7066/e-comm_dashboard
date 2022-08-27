@@ -1,5 +1,5 @@
 # e-comm_dashboard
-# How it words??
+# How it works??
 * This is an e-comm_dashboard
 * Data is kept secured util the user registers to the web
 * Once user sign-up with correct info. This dashboard opens to the user
